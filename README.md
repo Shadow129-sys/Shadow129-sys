@@ -1,3 +1,20 @@
+```json
+{
+    "Name" : "Sayan Ghosh",
+    "Student/Professional" : "Student",
+    "Institution" : "Techno Main Salt Lake",
+    "Links" : {
+                   "CodeChef" : {
+                                    "username" : "shadow_47",
+                                    "link" : "https://www.codechef.com/users/shadow_47",
+                                    "Highest Rating" : 1771
+                                }
+                   "Hacker Earth" : {
+                                        "username" : "Sayan Ghosh"
+                                    }
+              }
+}
+```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&layout=compact&theme=github_dark&show_icons=true)](https://github.com/Shadow129-sys)
 <!--
