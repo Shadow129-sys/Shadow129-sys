@@ -22,7 +22,7 @@ char Languages[][20] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
 <img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" >
-<img src="https://i.pinimg.com/originals/9c/5c/3d/9c5c3d2ed1ebd22dbcf567bc5d2d4fc8.png" title="Competitive Coding" height=50 width=50>
+<img src="https://i.pinimg.com/originals/a5/5c/95/a55c95d456f53c3961f50aa94d2a93c0.png" title="Sublime Text" height=50 width=50>
 </div>
 
 <!--
