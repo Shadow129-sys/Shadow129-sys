@@ -5,7 +5,7 @@ char name[30] = "Sayan Ghosh";
 struct CodeChef profile = { "shadow_47" , 1771 };
 char Languages[][20] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 ```
-<div align=center>
+<div align=left>
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&theme=radical&show_icons=true)](https://github.com/Shadow129-sys)&nbsp;&nbsp;
  [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow129-sys&show_icons=true&theme=radical)](https://github.com/Shadow129-sys)
