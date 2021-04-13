@@ -3,7 +3,7 @@
 ```c++
 char name[30] = "Sayan Ghosh";
 struct CodeChef profile = { "shadow_47" , 1771 };
-char Languages[][20] = { "C" , "C++" , "java" , "HTML" , "CSS" , "python" , "C#" };
+char Languages[][20] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&layout=compact&theme=github_dark&show_icons=true)](https://github.com/Shadow129-sys)
