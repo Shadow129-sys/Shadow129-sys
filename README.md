@@ -3,16 +3,12 @@
     "Name" : "Sayan Ghosh",
     "Student/Professional" : "Student",
     "Institution" : "Techno Main Salt Lake",
-    "Links" : {
-                   "CodeChef" : {
-                                    "username" : "shadow_47",
-                                    "link" : "https://www.codechef.com/users/shadow_47",
-                                    "Highest Rating" : 1771
-                                }
-                   "Hacker Earth" : {
-                                        "username" : "Sayan Ghosh"
-                                    }
-              }
+    "CodeChef" : {
+                    "username" : "shadow_47",
+                    "link" : "https://www.codechef.com/users/shadow_47",
+                    "Highest Rating" : 1771,
+                    "Highest Stars" : 3
+    }
 }
 ```
 
