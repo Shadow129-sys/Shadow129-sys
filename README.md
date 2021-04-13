@@ -12,8 +12,8 @@
 }
 ```
 ```c++
-string name = "Sayan Ghosh";
-string institution = "Techno Main Salt Lake";
+char name[30] = "Sayan Ghosh";
+char Institution[30] = "Techno Main Salt Lake";
 struct CodeChef profile = { "shadow_47" , 1771 };
 ```
 
