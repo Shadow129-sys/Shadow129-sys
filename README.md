@@ -3,7 +3,7 @@
 ```c++
 char name[30] = "Sayan Ghosh";
 struct CodeChef profile = { "shadow_47" , 1771 };
-char Languages[][20] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
+char Languages[][10] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 ```
 ### Github Stats:
 <div align=left>
