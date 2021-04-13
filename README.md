@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&layout=compact&theme=radical&show_icons=true)](https://github.com/shubhayu-64)
 <!--
 **Shadow129-sys/Shadow129-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
