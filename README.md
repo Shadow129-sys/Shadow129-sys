@@ -8,7 +8,7 @@
                     "link" : "https://www.codechef.com/users/shadow_47",
                     "Highest Rating" : 1771,
                     "Highest Stars" : 3
-    }
+                 }
 }
 ```
 
