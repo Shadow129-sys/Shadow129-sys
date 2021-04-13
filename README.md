@@ -8,8 +8,8 @@ char Languages[][20] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 ### Github Stats:
 <div align=left>
  
- [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow129-sys&count_private=true&icon_color=07a312&hide_title=true&hide_border=true&hide=issues&show_icons=true&theme=react)](https://github.com/Shadow129-sys)&nbsp;&nbsp;&nbsp;
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&hide_border=true&langs_count=8&border_radius=5&card_width=295&layout=compact&theme=react&show_icons=true)](https://github.com/Shadow129-sys)
+ [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow129-sys&count_private=true&icon_color=07a312&hide_title=true&hide_border=true&hide=issues&show_icons=true&theme=react)](https://github.com/Shadow129-sys)&nbsp;&nbsp;
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&hide_border=true&langs_count=8&border_radius=5&card_width=296&layout=compact&theme=react&show_icons=true)](https://github.com/Shadow129-sys)
  
 </div>
 
