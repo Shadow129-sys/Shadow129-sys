@@ -1,16 +1,5 @@
-```json
-{
-    "Name" : "Sayan Ghosh",
-    "Student/Professional" : "Student",
-    "Institution" : "Techno Main Salt Lake",
-    "CodeChef" : {
-                    "username" : "shadow_47",
-                    "link" : "https://www.codechef.com/users/shadow_47",
-                    "Highest Rating" : 1771,
-                    "Highest Stars" : 3
-                 }
-}
-```
+#Привет!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ```c++
 char name[30] = "Sayan Ghosh";
 struct CodeChef profile = { "shadow_47" , 1771 };
