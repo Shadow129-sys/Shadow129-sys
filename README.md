@@ -7,7 +7,7 @@ char Languages[][20] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 ```
 <div align=left>
  
- [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow129-sys&count_private=true&border_radius=5&hide_border=true&bg_color=182326&show_icons=true&theme=react)](https://github.com/Shadow129-sys)&nbsp;
+ [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow129-sys&count_private=true&line_height=5&border_radius=5&hide_border=true&bg_color=182326&show_icons=true&theme=react)](https://github.com/Shadow129-sys)&nbsp;
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&border_radius=5&layout=compact&theme=react&show_icons=true)](https://github.com/Shadow129-sys)
  
 </div>
