@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/Shadow129-sys)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&layout=compact&theme=lightgrey&show_icons=true)](https://github.com/Shadow129-sys)
 <!--
 **Shadow129-sys/Shadow129-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
