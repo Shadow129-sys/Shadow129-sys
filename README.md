@@ -12,6 +12,19 @@ char Languages[][20] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&hide_border=true&langs_count=8&border_radius=5&card_width=280&layout=compact&theme=react&show_icons=true)](https://github.com/Shadow129-sys)
  
 </div>
+
+### Tech Stack:
+<div align=center>  
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML" height=50 width=55>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CSS" height=50 width=55>
+<img src="https://img.icons8.com/color/50/000000/c-programming.png" title="C" >
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++" >
+<img src="https://img.icons8.com/color/48/000000/python.png" title="Python" >
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB" >
+<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux" >
+</div>
+
 <!--
 **Shadow129-sys/Shadow129-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
