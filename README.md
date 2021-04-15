@@ -14,7 +14,7 @@ char Languages[][10] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 <div align=left>
  
  [![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadow129-sys&count_private=true&icon_color=07a312&hide_title=true&hide_border=true&show_icons=true&theme=react)](https://github.com/Shadow129-sys)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&langs_count=8&hide_border=true&border_radius=5&card_width=300&layout=compact&theme=react&show_icons=true)](https://github.com/Shadow129-sys)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow129-sys&langs_count=8&hide_border=true&border_radius=5&card_width=310&layout=compact&theme=react&show_icons=true)](https://github.com/Shadow129-sys)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shadow129-sys&theme=dark&hide_border=true&theme=react&fire=f00f00)](https://git.io/streak-stats)
  
 </div>
