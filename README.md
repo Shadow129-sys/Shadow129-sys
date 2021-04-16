@@ -5,10 +5,6 @@ char name[30] = "Sayan Ghosh";
 struct CodeChef profile = { "shadow_47" , 1771 };
 char Languages[][10] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 ```
-<div align=left>
- 
- [![GitHub Readme Views](https://komarev.com/ghpvc/?username=Shadow129-sys&color=blue&style=flat&label=VIEWS)](https://github.com/Shadow129-sys)
-</div>
 
 ### Github Stats:
 <div align=left>
