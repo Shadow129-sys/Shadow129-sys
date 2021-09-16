@@ -2,7 +2,7 @@
  
 ```c++
 char name[30] = "Sayan Ghosh";
-struct CodeChef profile = { "shadow_47" , 1771 };
+struct CodeChef profile = { "shadow_47" , 1869 };
 char Languages[][10] = { "C" , "C++" , "HTML" , "CSS" , "python" , "bash" };
 ```
  
